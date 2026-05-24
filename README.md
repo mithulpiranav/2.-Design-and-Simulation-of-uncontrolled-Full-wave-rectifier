@@ -55,5 +55,13 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+
+<img width="1162" height="592" alt="image" src="https://github.com/user-attachments/assets/940111d2-437f-4493-b98f-5afea3fe993a" />
+
 ## Output
+
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/e7fa188d-44b8-4c34-b9d4-2b3739289ff2" />
+
 ## Result
+
+Hence the output Voltage is obtained 
